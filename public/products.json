@@ -1,0 +1,472 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Philips 2000 Series Airfryer 6.2L",
+      "image": "https://media.takealot.com/covers_images/b3a7047efab647e590edb04b56d20884/s-zoom.file",
+      "price": 2499,
+      "category": "Home & Kitchen",
+      "stock": 15,
+      "description": "Philips 2000 Series airfryer with RapidAir technology and a 6.2L basket with viewing window. Touch display with preset cooking programs lets you fry, bake, grill and roast with little to no oil."
+    },
+    {
+      "id": 2,
+      "name": "Philips Essentials Kettle 1.7L",
+      "image": "https://media.takealot.com/covers_images/1cce71f484d148eba29f5ecf11f846f1/s-zoom.file",
+      "price": 549,
+      "category": "Home & Kitchen",
+      "stock": 40,
+      "description": "1.7L cordless electric kettle in matte dark grey with a clear water-level window, one-touch switch and 360° swivel base. Boils quickly and switches off automatically for safety."
+    },
+    {
+      "id": 3,
+      "name": "Vortex Diamondback HD 10x42 Binoculars",
+      "image": "https://media.takealot.com/covers_tsins/61029845/61029845-1-zoom.jpeg",
+      "price": 6999,
+      "category": "Outdoor & Optics",
+      "stock": 8,
+      "description": "Vortex Diamondback HD 10x42 binoculars with HD optical system for sharp, bright images. Rubber-armoured, waterproof and fogproof body — ideal for birding, safari and general wildlife viewing."
+    },
+    {
+      "id": 4,
+      "name": "Garmin Forerunner 255 GPS Running Watch",
+      "image": "https://media.takealot.com/covers_images/20820049c0064890a089e6dac9dcab57/s-zoom.file",
+      "price": 6499,
+      "category": "Wearables",
+      "stock": 12,
+      "description": "Garmin Forerunner 255 GPS smartwatch in black with advanced running metrics, multi-band GNSS, heart-rate monitoring, sleep and recovery insights, and up to 14 days of battery life."
+    },
+    {
+      "id": 5,
+      "name": "Haier Side-by-Side Fridge Freezer",
+      "image": "https://media.takealot.com/covers_images/3eefc96a817a4810b22334b5e0923755/s-zoom.file",
+      "price": 15999,
+      "category": "Appliances",
+      "stock": 5,
+      "description": "Haier side-by-side refrigerator in dark inox with frost-free cooling, smart humidity control and a lifetime compressor warranty. Generous fridge and freezer capacity for the whole family."
+    },
+    {
+      "id": 6,
+      "name": "Philips Evnia 24\" 144Hz Gaming Monitor",
+      "image": "https://media.takealot.com/covers_images/23733e7d60134e58b11b1613b9e06e25/s-zoom.file",
+      "price": 3299,
+      "category": "Electronics",
+      "stock": 18,
+      "description": "24-inch Philips Evnia Full HD gaming monitor with a 144Hz refresh rate, 0.5ms response time, IPS panel with wide viewing angles and SmartImage game modes for smooth, responsive play."
+    },
+    {
+      "id": 7,
+      "name": "Slim Rechargeable Wireless RGB Mouse",
+      "image": "https://media.takealot.com/covers_images/30e29ec6495c49e8b1c0e7181f9e2421/s-zoom.file",
+      "price": 249,
+      "category": "Electronics",
+      "stock": 60,
+      "description": "Ultra-slim rechargeable wireless mouse in white with colour-cycling RGB underglow, silent-click buttons and USB-C charging. Connects via 2.4GHz USB receiver or Bluetooth."
+    },
+    {
+      "id": 8,
+      "name": "Volkano 7-in-1 USB-C Hub",
+      "image": "https://media.takealot.com/covers_images/852be41ec3be4e82b8a415d0ae9a7b82/s-zoom.file",
+      "price": 699,
+      "category": "Electronics",
+      "stock": 30,
+      "description": "Volkano aluminium 7-in-1 USB Type-C hub with 4K HDMI output, two USB 3.0 ports, USB-C data and Power Delivery charging ports, plus SD and microSD card readers."
+    },
+    {
+      "id": 9,
+      "name": "TP-Link Archer AX55 Wi-Fi 6 Router",
+      "image": "https://media.takealot.com/covers_images/13bde11bcc57427682a9b5be9e894791/s-zoom.file",
+      "price": 1799,
+      "category": "Electronics",
+      "stock": 22,
+      "description": "TP-Link dual-band Wi-Fi 6 router with four high-gain antennas for fast, stable coverage throughout your home. Supports OFDMA, MU-MIMO, WPA3 security and easy setup via the Tether app."
+    },
+    {
+      "id": 10,
+      "name": "Beast RGB Gaming PC (GeForce RTX)",
+      "image": "https://media.takealot.com/covers_images/3b35efc2ab6646449a7e6ec13fa9628a/s-zoom.file",
+      "price": 18999,
+      "category": "Electronics",
+      "stock": 4,
+      "description": "Custom-built white gaming PC with a GeForce RTX graphics card, RGB cooling fans, tempered-glass side panel and high-airflow case. Ready to run modern titles at high settings out of the box."
+    },
+    {
+      "id": 11,
+      "name": "Pandora Sparkling Tennis Bracelet",
+      "image": "https://media.takealot.com/covers_images/28dda833b91b4aeaa5a466c84dd46577/s-zoom.file",
+      "price": 2299,
+      "category": "Jewellery",
+      "stock": 10,
+      "description": "Pandora sterling silver (S925) tennis bracelet set with a row of sparkling clear cubic zirconia stones, finished with an adjustable chain and lobster clasp."
+    },
+    {
+      "id": 12,
+      "name": "Jacobs Barista Crema Italiano Coffee Beans 1kg",
+      "image": "https://media.takealot.com/covers_images/1d51ee9b127a43ec87ce01b7b9480160/s-zoom.file",
+      "price": 279,
+      "category": "Groceries",
+      "stock": 50,
+      "description": "Jacobs Barista Editions Crema Italiano whole coffee beans, 1kg. Italian-style roast with intensity 7/10 — bold and velvety, perfect for lungo, americano or café au lait."
+    },
+    {
+      "id": 13,
+      "name": "Essence Mascara Lash Princess",
+      "image": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp",
+      "price": 179,
+      "category": "Beauty",
+      "stock": 99,
+      "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula."
+    },
+    {
+      "id": 14,
+      "name": "Eyeshadow Palette with Mirror",
+      "image": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp",
+      "price": 359,
+      "category": "Beauty",
+      "stock": 34,
+      "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application."
+    },
+    {
+      "id": 15,
+      "name": "Powder Canister",
+      "image": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp",
+      "price": 269,
+      "category": "Beauty",
+      "stock": 89,
+      "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish."
+    },
+    {
+      "id": 16,
+      "name": "Calvin Klein CK One",
+      "image": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp",
+      "price": 899,
+      "category": "Beauty",
+      "stock": 29,
+      "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear."
+    },
+    {
+      "id": 17,
+      "name": "Chanel Coco Noir Eau De",
+      "image": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp",
+      "price": 2299,
+      "category": "Beauty",
+      "stock": 58,
+      "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions."
+    },
+    {
+      "id": 18,
+      "name": "Dior J'adore",
+      "image": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp",
+      "price": 1599,
+      "category": "Beauty",
+      "stock": 98,
+      "description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication."
+    },
+    {
+      "id": 19,
+      "name": "Annibale Colombo Bed",
+      "image": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp",
+      "price": 34199,
+      "category": "Home & Kitchen",
+      "stock": 88,
+      "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom."
+    },
+    {
+      "id": 20,
+      "name": "Annibale Colombo Sofa",
+      "image": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp",
+      "price": 44999,
+      "category": "Home & Kitchen",
+      "stock": 60,
+      "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room."
+    },
+    {
+      "id": 21,
+      "name": "Bedside Table African Cherry",
+      "image": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp",
+      "price": 5399,
+      "category": "Home & Kitchen",
+      "stock": 64,
+      "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance."
+    },
+    {
+      "id": 22,
+      "name": "Apple",
+      "image": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp",
+      "price": 35.99,
+      "category": "Groceries",
+      "stock": 8,
+      "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes."
+    },
+    {
+      "id": 23,
+      "name": "Beef Steak",
+      "image": "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp",
+      "price": 229,
+      "category": "Groceries",
+      "stock": 86,
+      "description": "High-quality beef steak, great for grilling or cooking to your preferred level of doneness."
+    },
+    {
+      "id": 24,
+      "name": "Cat Food",
+      "image": "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp",
+      "price": 159,
+      "category": "Groceries",
+      "stock": 46,
+      "description": "Nutritious cat food formulated to meet the dietary needs of your feline friend."
+    },
+    {
+      "id": 25,
+      "name": "Decoration Swing",
+      "image": "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/thumbnail.webp",
+      "price": 1099,
+      "category": "Home & Kitchen",
+      "stock": 47,
+      "description": "The Decoration Swing is a charming addition to your home decor. Crafted with intricate details, it adds a touch of elegance and whimsy to any room."
+    },
+    {
+      "id": 26,
+      "name": "Family Tree Photo Frame",
+      "image": "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/thumbnail.webp",
+      "price": 539,
+      "category": "Home & Kitchen",
+      "stock": 77,
+      "description": "The Family Tree Photo Frame is a sentimental and stylish way to display your cherished family memories. With multiple photo slots, it tells the story of your loved ones."
+    },
+    {
+      "id": 27,
+      "name": "House Showpiece Plant",
+      "image": "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/thumbnail.webp",
+      "price": 719,
+      "category": "Home & Kitchen",
+      "stock": 28,
+      "description": "The House Showpiece Plant is an artificial plant that brings a touch of nature to your home without the need for maintenance. It adds greenery and style to any space."
+    },
+    {
+      "id": 28,
+      "name": "Bamboo Spatula",
+      "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/thumbnail.webp",
+      "price": 139,
+      "category": "Home & Kitchen",
+      "stock": 37,
+      "description": "The Bamboo Spatula is a versatile kitchen tool made from eco-friendly bamboo. Ideal for flipping, stirring, and serving various dishes."
+    },
+    {
+      "id": 29,
+      "name": "Black Aluminium Cup",
+      "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/thumbnail.webp",
+      "price": 109,
+      "category": "Home & Kitchen",
+      "stock": 75,
+      "description": "The Black Aluminium Cup is a stylish and durable cup suitable for both hot and cold beverages. Its sleek black design adds a modern touch to your drinkware collection."
+    },
+    {
+      "id": 30,
+      "name": "Black Whisk",
+      "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/thumbnail.webp",
+      "price": 179,
+      "category": "Home & Kitchen",
+      "stock": 73,
+      "description": "The Black Whisk is a kitchen essential for whisking and beating ingredients. Its ergonomic handle and sleek design make it a practical and stylish tool."
+    },
+    {
+      "id": 31,
+      "name": "Apple MacBook Pro 14 Inch Space Grey",
+      "image": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/thumbnail.webp",
+      "price": 35999,
+      "category": "Electronics",
+      "stock": 24,
+      "description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display."
+    },
+    {
+      "id": 32,
+      "name": "Asus Zenbook Pro Dual Screen Laptop",
+      "image": "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/thumbnail.webp",
+      "price": 32399,
+      "category": "Electronics",
+      "stock": 45,
+      "description": "The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals."
+    },
+    {
+      "id": 33,
+      "name": "Huawei Matebook X Pro",
+      "image": "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/thumbnail.webp",
+      "price": 25199,
+      "category": "Electronics",
+      "stock": 75,
+      "description": "The Huawei Matebook X Pro is a slim and stylish laptop with a high-resolution touchscreen display, offering a premium experience for users on the go."
+    },
+    {
+      "id": 34,
+      "name": "Blue & Black Check Shirt",
+      "image": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp",
+      "price": 539,
+      "category": "Clothing",
+      "stock": 38,
+      "description": "The Blue & Black Check Shirt is a stylish and comfortable men's shirt featuring a classic check pattern. Made from high-quality fabric, it's suitable for both casual and semi-formal occasions."
+    },
+    {
+      "id": 35,
+      "name": "Gigabyte Aorus Men Tshirt",
+      "image": "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/thumbnail.webp",
+      "price": 449,
+      "category": "Clothing",
+      "stock": 90,
+      "description": "The Gigabyte Aorus Men Tshirt is a cool and casual shirt for gaming enthusiasts. With the Aorus logo and sleek design, it's perfect for expressing your gaming style."
+    },
+    {
+      "id": 36,
+      "name": "Man Plaid Shirt",
+      "image": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/thumbnail.webp",
+      "price": 629,
+      "category": "Clothing",
+      "stock": 82,
+      "description": "The Man Plaid Shirt is a timeless and versatile men's shirt with a classic plaid pattern. Its comfortable fit and casual style make it a wardrobe essential for various occasions."
+    },
+    {
+      "id": 37,
+      "name": "Nike Air Jordan 1 Red And Black",
+      "image": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/thumbnail.webp",
+      "price": 2699,
+      "category": "Clothing",
+      "stock": 7,
+      "description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes."
+    },
+    {
+      "id": 38,
+      "name": "Nike Baseball Cleats",
+      "image": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/thumbnail.webp",
+      "price": 1399,
+      "category": "Clothing",
+      "stock": 12,
+      "description": "Nike Baseball Cleats are designed for maximum traction and performance on the baseball field. They provide stability and support for players during games and practices."
+    },
+    {
+      "id": 39,
+      "name": "Puma Future Rider Trainers",
+      "image": "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/thumbnail.webp",
+      "price": 1599,
+      "category": "Clothing",
+      "stock": 90,
+      "description": "The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use."
+    },
+    {
+      "id": 40,
+      "name": "Brown Leather Belt Watch",
+      "image": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp",
+      "price": 1599,
+      "category": "Watches & Accessories",
+      "stock": 32,
+      "description": "The Brown Leather Belt Watch is a stylish timepiece with a classic design. Featuring a genuine leather strap and a sleek dial, it adds a touch of sophistication to your look."
+    },
+    {
+      "id": 41,
+      "name": "Longines Master Collection",
+      "image": "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/thumbnail.webp",
+      "price": 26999,
+      "category": "Watches & Accessories",
+      "stock": 100,
+      "description": "The Longines Master Collection is an elegant and refined watch known for its precision and craftsmanship. With a timeless design, it's a symbol of luxury and sophistication."
+    },
+    {
+      "id": 42,
+      "name": "Rolex Cellini Date Black Dial",
+      "image": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/thumbnail.webp",
+      "price": 161999,
+      "category": "Watches & Accessories",
+      "stock": 40,
+      "description": "The Rolex Cellini Date with Black Dial is a classic and prestigious watch. With a black dial and date complication, it exudes sophistication and is a symbol of Rolex's heritage."
+    },
+    {
+      "id": 43,
+      "name": "Amazon Echo Plus",
+      "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp",
+      "price": 1799,
+      "category": "Electronics",
+      "stock": 61,
+      "description": "The Amazon Echo Plus is a smart speaker with built-in Alexa voice control. It features premium sound quality and serves as a hub for controlling smart home devices."
+    },
+    {
+      "id": 44,
+      "name": "Apple Airpods",
+      "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/thumbnail.webp",
+      "price": 2299,
+      "category": "Electronics",
+      "stock": 67,
+      "description": "The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening."
+    },
+    {
+      "id": 45,
+      "name": "Apple AirPods Max Silver",
+      "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/thumbnail.webp",
+      "price": 9899,
+      "category": "Electronics",
+      "stock": 59,
+      "description": "The Apple AirPods Max in Silver are premium over-ear headphones with high-fidelity audio, adaptive EQ, and active noise cancellation. Experience immersive sound in style."
+    },
+    {
+      "id": 46,
+      "name": "Generic Motorcycle",
+      "image": "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/thumbnail.webp",
+      "price": 71999,
+      "category": "Automotive",
+      "stock": 34,
+      "description": "The Generic Motorcycle is a versatile and reliable bike suitable for various riding preferences. With a balanced design, it provides a comfortable and efficient riding experience."
+    },
+    {
+      "id": 47,
+      "name": "Kawasaki Z800",
+      "image": "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/thumbnail.webp",
+      "price": 161999,
+      "category": "Automotive",
+      "stock": 52,
+      "description": "The Kawasaki Z800 is a powerful and agile sportbike known for its striking design and performance. It's equipped with advanced features, making it a favorite among motorcycle enthusiasts."
+    },
+    {
+      "id": 48,
+      "name": "MotoGP CI.H1",
+      "image": "https://cdn.dummyjson.com/product-images/motorcycle/motogp-ci.h1/thumbnail.webp",
+      "price": 269999,
+      "category": "Automotive",
+      "stock": 10,
+      "description": "The MotoGP CI.H1 is a high-performance motorcycle inspired by MotoGP racing technology. It offers cutting-edge features and precision engineering for an exhilarating riding experience."
+    },
+    {
+      "id": 49,
+      "name": "Attitude Super Leaves Hand Soap",
+      "image": "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/thumbnail.webp",
+      "price": 159,
+      "category": "Beauty",
+      "stock": 94,
+      "description": "Attitude Super Leaves Hand Soap is a natural and nourishing hand soap enriched with the goodness of super leaves. It cleanses and moisturizes your hands, leaving them feeling fresh and soft."
+    },
+    {
+      "id": 50,
+      "name": "Olay Ultra Moisture Shea Butter Body Wash",
+      "image": "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/thumbnail.webp",
+      "price": 229,
+      "category": "Beauty",
+      "stock": 34,
+      "description": "Olay Ultra Moisture Shea Butter Body Wash is a luxurious body wash that hydrates and nourishes your skin with the moisturizing power of shea butter. Enjoy a rich lather and silky-smooth skin."
+    },
+    {
+      "id": 51,
+      "name": "Vaseline Men Body and Face Lotion",
+      "image": "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/thumbnail.webp",
+      "price": 179,
+      "category": "Beauty",
+      "stock": 95,
+      "description": "Vaseline Men Body and Face Lotion is a specially formulated lotion designed to provide long-lasting moisture to men's skin. It absorbs quickly and helps keep the skin hydrated and healthy."
+    },
+    {
+      "id": 52,
+      "name": "iPhone 5s",
+      "image": "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/thumbnail.webp",
+      "price": 3599,
+      "category": "Electronics",
+      "stock": 25,
+      "description": "The iPhone 5s is a classic smartphone known for its compact design and advanced features during its release. While it's an older model, it still provides a reliable user experience."
+    }
+  ]
+}
