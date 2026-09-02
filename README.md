@@ -9,12 +9,12 @@ npm install
 npm run dev
 ```
 
-| Script            | What it does                        |
-| ----------------- | ----------------------------------- |
-| `npm run dev`     | Vite dev server with HMR            |
-| `npm run build`   | Build to `dist/`                    |
-| `npm run preview` | Serve the production build locally  |
-| `npm run lint`    | Run oxlint                          |
+| Script            | What it does                       |
+| ----------------- | ---------------------------------- |
+| `npm run dev`     | Vite dev server with HMR           |
+| `npm run build`   | Build to `dist/`                   |
+| `npm run preview` | Serve the production build locally |
+| `npm run lint`    | Run oxlint                         |
 
 ## Files
 
